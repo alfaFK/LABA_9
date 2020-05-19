@@ -7,5 +7,6 @@ int main(){
   std::cout<<"sum is :"<<A+B<<std::endl;
   std::cout<<"Subtract is :"<<A-B<<std::endl;
   std::cout<<"Multiplication is :"<<A*B<<std::endl;
+  std::cout<<"Division is :"<<A/B<<std::endl;
   std::cin>>exit;
 }
